@@ -36,7 +36,7 @@ eureka:
     prefer-ip-address: true 
     ip-address: 192.168.31.156  # 指定IP
 emp:
-  name: zhangsan
+  name: lisi
 ---
 server:
   port: 8001
